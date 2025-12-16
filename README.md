@@ -6,10 +6,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
