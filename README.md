@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Trie
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
