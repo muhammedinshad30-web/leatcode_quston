@@ -31,6 +31,7 @@
 | [0001-two-sum](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
