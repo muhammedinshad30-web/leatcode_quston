@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -33,6 +34,7 @@
 | [0001-two-sum](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0027-remove-element) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
